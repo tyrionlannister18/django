@@ -4,12 +4,11 @@ this is login page made by Rushi
 this is added by Tejas new line
 
 
-<<<<<<< HEAD
+
 This line of code is added for new branch emergency-fix 
 
 This is fixed now
-=======
+
 on git new branch "helo-python" following line of code added
 <div><img src="python image".jpg" alt="Hello World from Space"
 style="width:100%;max-width:960px"></div>
->>>>>>> helo-django
